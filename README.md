@@ -1,3 +1,3 @@
 # autonomousForklift
 That project contains forklift automation
-![alt text](https://github.com/[ercandalmis98]/[autonomousForklift]/image.jpg?raw=true)
+![backstage](https://github.com/[ercandalmis98]/[autonomousForklift]/backstage.jpg?raw=true)
