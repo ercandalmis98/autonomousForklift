@@ -1,5 +1,5 @@
-# # This project contains forklift automation and stock control
-# Video is available on youtube [Simulation Video Link](https://www.youtube.com/watch?v=nJC3Y_SUnbw)
+# This project contains forklift automation and stock control
+## Video is available on youtube [Simulation Video Link](https://www.youtube.com/watch?v=nJC3Y_SUnbw)
 There are the simulation and enviroment images:<br/>
 ![stuff1](images/malzeme1.png)
 ![stuff2](images/malzeme2.png)
