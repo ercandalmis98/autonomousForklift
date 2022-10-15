@@ -1,8 +1,9 @@
-# This project contains forklift automation and stock control Used languages and tools:
-Programming language: Python, C#
-Framework: Darknet  Faster RCNN
-Game Developement: Unity3D Game Engine
-Image Processing: OpenCV
+# This project contains forklift automation and stock control 
+Used languages and tools:<br/>
+-Programming language: Python, C#<br/>
+-Framework: Darknet  Faster RCNN<br/>
+-Game Developement: Unity3D Game Engine<br/>
+-Image Processing: OpenCV<br/>
 ## Video is available on youtube [Simulation Video Link](https://www.youtube.com/watch?v=nJC3Y_SUnbw)
 There are the simulation and enviroment images:<br/>
 ![stuff1](images/malzeme1.png)
